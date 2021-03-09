@@ -11,8 +11,8 @@ Galvēnais uzdevums ir izstrādat parastu spēli mobilajām ierīcēm ,kura labi
 
 
 *SWOT analīze*
-Stiprās puses – Daudz interesantus pamatojumus par Unity platfomu.Viegli atrast piemērotu informāciju par noteiktu tēmu.
-Vājas puses – Maz pieredzes noteikta sfēra.
-Iespējas – Draugi,kuri var palīdzet sasniegt mērķi,jo viņiem daudz pieredzes. 
-Draudi – Maz laika, bakalaura izstrāde. 
+Stiprās puses – Daudz interesantus pamatojumus par Unity platfomu.Viegli atrast piemērotu informāciju par noteiktu tēmu.\
+Vājas puses – Maz pieredzes noteikta sfēra.\
+Iespējas – Draugi,kuri var palīdzet sasniegt mērķi,jo viņiem daudz pieredzes.\
+Draudi – Maz laika, bakalaura izstrāde.\ 
 
