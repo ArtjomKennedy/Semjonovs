@@ -7,4 +7,4 @@ Galvēnais uzdevums ir izstrādat parastu spēli mobilajām ierīcēm ,kura labi
 
 | Suppliers |    Inputs |    Process |    Outputs |    Customers |
 | :-: | :-: | :-: | :-: | :-: |
-| Unity game engine <br/> C# language <br/> Game template |    C# valodas kods <br/> Unity3D attēli |    Rakstīt skriptus <br/> Sagatavot animācijas <br/> Sakompilēt |    Pilnīgi strādājoša spēle |    Google Play vai Apple Store apmēklētāji |
+| Unity game engine <br/> C# language <br/> Game template |    Untiy model <br/> C# language |    Prepare model <br/> Add new model <br/> Add c# code </br> testing |    New game |    Testing with customer <br/> Upload game in Play Market </br> Download game|
